@@ -1,9 +1,7 @@
 #!/usr/bin/python3
 # coding: utf-8
 '''
- Игра разработана Голубых Иваном Борисовичем.
- Официальный сайт игры:
- https://github.com/ivangolubykh/python-snake
+
 '''
 
 
