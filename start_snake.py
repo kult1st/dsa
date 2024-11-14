@@ -1,6 +1,4 @@
-
-
-
+#Ilya Tsyganov
 from tkinter import *
 from enum import Enum
 import time
